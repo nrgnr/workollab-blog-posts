@@ -91,3 +91,9 @@ The human still has to:
 That is why the gap between "AI can write code" and "AI can build the right product" is still so large.
 
 AI builds what you say. Someone experienced still has to determine what you actually need.
+
+## Sources
+
+- [OpenAI: Prompt engineering best practices](https://platform.openai.com/docs/guides/prompt-engineering)
+- [Anthropic: Long context prompting tips](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/long-context-tips)
+- [Stack Overflow 2025 Developer Survey](https://survey.stackoverflow.co/2025)

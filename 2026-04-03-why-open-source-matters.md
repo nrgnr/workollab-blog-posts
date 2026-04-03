@@ -48,3 +48,9 @@ That pressure is good. It raises the standard. It forces clearer engineering dec
 At Workollab, this is part of the reason open technology keeps showing up in what we pay attention to. Open systems give builders more leverage. They make it easier to understand how something works, adapt it to real use, and participate in the ecosystem instead of only consuming it.
 
 That does not mean every closed tool is bad or every open project is automatically good. It means open source still provides a distinct advantage wherever control, customization, interoperability, and long-term resilience actually matter.
+
+## Sources
+
+- [Meta: Open Source AI is the Path Forward](https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/)
+- [Linux Foundation Research: World of Open Source 2024](https://www.linuxfoundation.org/research/world-of-open-source-global-2024)
+- [Open Source Initiative: 2024 Annual Report](https://opensource.org/2024-annual-report)

@@ -71,3 +71,9 @@ That is why overly polished reporting can be a smell. Sometimes it is just profe
 Clients should care less about whether the project sounds organized and more about whether the team is close enough to the work to describe it honestly.
 
 Because in consulting, presentation quality is easy to buy. Delivery quality is harder.
+
+## Sources
+
+- [PMI: The High Cost of Low Performance](https://www.pmi.org/learning/library/en-2013-pulse-high-cost-low-performance-13512)
+- [PMI White Paper: Communication - The Message Is Clear](https://www.pmi.org/-/media/pmi/documents/public/pdf/white-papers/communications.pdf?v=73348590-320b-4907-b694-0cea16076cdf)
+- [Digital.gov: 6 lessons from a project handoff](https://digital.gov/2023/09/19/6-lessons-from-a-project-handoff/)

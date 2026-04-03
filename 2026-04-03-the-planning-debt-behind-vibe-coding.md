@@ -81,3 +81,9 @@ Vibe coding makes it easy to confuse motion with progress.
 You can be moving constantly and still not be converging on a product. That is what planning debt feels like in practice. A lot of activity, not enough direction.
 
 The projects that hold up are usually not the ones that skipped thinking. They are the ones that made the important decisions early enough that execution could stay clean afterward.
+
+## Sources
+
+- [PMI: The High Cost of Low Performance](https://www.pmi.org/learning/library/en-2013-pulse-high-cost-low-performance-13512)
+- [PMI White Paper: Communication - The Message Is Clear](https://www.pmi.org/-/media/pmi/documents/public/pdf/white-papers/communications.pdf?v=73348590-320b-4907-b694-0cea16076cdf)
+- [GitClear: AI Copilot Code Quality 2025](https://www.gitclear.com/ai_assistant_code_quality_2025_research)

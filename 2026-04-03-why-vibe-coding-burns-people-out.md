@@ -78,3 +78,9 @@ The strongest pattern is not AI-only development and it is not rejecting AI enti
 That is what keeps the work from turning into exhaustion. The tool can generate. The human still has to decide, shape, reduce, reject, and finish.
 
 Without that layer, vibe coding does not just create messy software. It creates burnout.
+
+## Sources
+
+- [Stack Overflow 2025 Developer Survey](https://survey.stackoverflow.co/2025)
+- [Stack Overflow: Where developers feel AI coding tools are working and where they’re missing the mark](https://stackoverflow.blog/2024/09/23/where-developers-feel-ai-coding-tools-are-working-and-where-theyre-missing-the-mark/)
+- [GitClear: AI Copilot Code Quality 2025](https://www.gitclear.com/ai_assistant_code_quality_2025_research)

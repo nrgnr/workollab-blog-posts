@@ -48,3 +48,5 @@ That is not a side debate anymore. It is one of the main questions shaping how t
 Source:
 
 - [Meta: Open Source AI is the Path Forward](https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/)
+- [Linux Foundation Research: World of Open Source 2024](https://www.linuxfoundation.org/research/world-of-open-source-global-2024)
+- [Open Source Initiative: 2024 Annual Report](https://opensource.org/2024-annual-report)

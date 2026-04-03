@@ -71,3 +71,9 @@ That does not mean every project needs the same person in every meeting forever.
 If that continuity is missing, even a technically competent team can still create a bad client experience.
 
 The real job is not just to sell confidence. It is to preserve truth from the first conversation all the way through delivery.
+
+## Sources
+
+- [PMI: The High Cost of Low Performance](https://www.pmi.org/learning/library/en-2013-pulse-high-cost-low-performance-13512)
+- [PMI White Paper: Communication - The Message Is Clear](https://www.pmi.org/-/media/pmi/documents/public/pdf/white-papers/communications.pdf?v=73348590-320b-4907-b694-0cea16076cdf)
+- [Digital.gov: 6 lessons from a project handoff](https://digital.gov/2023/09/19/6-lessons-from-a-project-handoff/)

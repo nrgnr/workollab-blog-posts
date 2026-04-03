@@ -72,3 +72,9 @@ That is the real test.
 If a consultancy only works when the client stays dependent, then the model is weaker than it looks. If the consultancy can build, document, hand over, and still remain valuable, then the relationship is being earned rather than enforced.
 
 That difference matters more than most polished pitch decks will admit.
+
+## Sources
+
+- [Digital.gov: 6 lessons from a project handoff](https://digital.gov/2023/09/19/6-lessons-from-a-project-handoff/)
+- [PMI White Paper: Communication - The Message Is Clear](https://www.pmi.org/-/media/pmi/documents/public/pdf/white-papers/communications.pdf?v=73348590-320b-4907-b694-0cea16076cdf)
+- [PMI: The High Cost of Low Performance](https://www.pmi.org/learning/library/en-2013-pulse-high-cost-low-performance-13512)

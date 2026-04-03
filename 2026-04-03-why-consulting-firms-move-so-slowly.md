@@ -70,3 +70,9 @@ Clients do not need a consultancy to look busy. They need it to move.
 That means fewer handoffs, tighter feedback loops, more direct ownership, and less ceremony pretending to be delivery.
 
 The firms that still have an advantage are the ones that can keep context close to execution. The rest mostly just create drag at scale.
+
+## Sources
+
+- [PMI: The High Cost of Low Performance](https://www.pmi.org/learning/library/en-2013-pulse-high-cost-low-performance-13512)
+- [PMI White Paper: Communication - The Message Is Clear](https://www.pmi.org/-/media/pmi/documents/public/pdf/white-papers/communications.pdf?v=73348590-320b-4907-b694-0cea16076cdf)
+- [Digital.gov: 6 lessons from a project handoff](https://digital.gov/2023/09/19/6-lessons-from-a-project-handoff/)
