@@ -4,7 +4,7 @@ slug: why-pretext-is-worth-paying-attention-to
 tags:
   - Blog Posts
   - Open Source
-excerpt: Pretext attacks a real UI problem most teams accept as unavoidable: multiline text measurement that usually depends on slow DOM reads and messy layout hacks.
+excerpt: "Pretext attacks a real UI problem most teams accept as unavoidable: multiline text measurement that usually depends on slow DOM reads and messy layout hacks."
 ---
 
 # Why Pretext is worth paying attention to
